@@ -3,4 +3,4 @@ git cheat sheet
 new change to commit
 now commits also visible by my name
 new change for git -am
-this change in new branch
+change for diff
