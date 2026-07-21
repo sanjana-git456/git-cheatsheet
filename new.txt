@@ -2,3 +2,4 @@ this file for restore
 change made in branch banana
 a new change for squash command
 now change for cherry-pick
+merging change
